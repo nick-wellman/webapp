@@ -1,0 +1,29 @@
+.hide-container {
+  visibility: hidden;
+}
+
+.a-image {
+  display: block;
+}
+
+.thumbnail {
+  height: 100px;
+  width: 100px;
+}
+
+textarea.clipboard {
+  position: fixed;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+
+.copy2clipboard {
+  height: 25px;
+  width: 25px;
+}
+
+.share {
+  height: 25px;
+  width: 25px;
+}
